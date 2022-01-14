@@ -1,0 +1,2 @@
+Behaviour Design Patterns are concerned with the responsibility and interaction between the objects.
+These Design Patterns make sure the objects are loosely coupled, yet, can easily communicate with each other

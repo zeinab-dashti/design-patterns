@@ -1,0 +1,1 @@
+Creational Design Patterns are concerned with the method of creating Objects.

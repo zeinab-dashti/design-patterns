@@ -1,0 +1,1 @@
+Structural Design Patterns deal with the composition of classes and objects which form larger structures. They simplify the structure by identifying the relationship between the classes and objects.
